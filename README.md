@@ -10,7 +10,6 @@ The application provides secure authentication and role-based access control for
 
 ### 🔐 Authentication & Security
 
-* User registration
 * User login
 * JWT-based authentication
 * Spring Security integration
@@ -161,10 +160,6 @@ Product-Management/
 ## Login
 
 ![Login](screenshots/login.png)
-
-## Register
-
-![Register](screenshots/register.png)
 
 ## Admin Dashboard
 
