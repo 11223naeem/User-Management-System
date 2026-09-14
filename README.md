@@ -179,7 +179,7 @@ Product-Management/
 
 ## Manager Tasks
 
-![Manager Tasks](screenshots/manager-tasks.png)
+![Manager Tasks](screenshots/manager-Task.png)
 
 ## User Dashboard
 
@@ -187,11 +187,11 @@ Product-Management/
 
 ## My Tasks
 
-![My Tasks](screenshots/my-tasks.png)
+![My Tasks](screenshots/tasks.png)
 
 ## My Profile
 
-![My Profile](screenshots/my-profile.png)
+![My Profile](screenshots/profile.png)
 
 ---
 
